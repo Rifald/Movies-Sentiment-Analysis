@@ -6,5 +6,5 @@ The script using web scrapping to retrieve review data automatically from the IM
 The final result of this script is to summarize sentiment of the movie.
 ![](Movies_sentiment.png)
 
-
+![](Negative_Sentiment.png) ![](Positive_Sentiment.png)
 
